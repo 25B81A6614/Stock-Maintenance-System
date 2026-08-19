@@ -4,4 +4,4 @@ This project is created for academic demonstration purpose only
 Software Configuration Management using GitHub.
 Student Name: K.HANSIKA REDDY
 Roll Number: 25B81A6614
-Class: CSE(AI&ML)
+Class: B.tech II year/CSE(AI&ML)
